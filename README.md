@@ -1,43 +1,61 @@
-# 💫 About Me:
-Hi there! 👋 I'm **Chandan Kumar**  
-I'm a passionate **Front-End Developer** with **1 year of experience**, specializing in **React.js** and **Next.js** to build efficient, interactive, and responsive web applications.  
-
-I love transforming complex problems into simple, user-friendly solutions with **clean and maintainable code**. Always eager to **learn and explore** new technologies to enhance my development skills.  
-
-🔭 **Currently working on:** A website for an **e-rickshaw service center, Sankalp Electra Auto Motive.**  
-🌱 **Learning & Improving:** JavaScript, API integrations, and animations.  
-⚡ **Fun Fact:** I enjoy optimizing web performance and making UI interactions smoother!  
-
-🚀 **Check out my portfolio:** [its-chandan-portfolio.netlify.app](https://its-chandan-portfolio.netlify.app/)  
+<h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
+<h3 align="center">A Passionate Front-End Developer | React.js & Next.js Enthusiast</h3>
 
 ---
 
-## 🌐 **Socials:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandan-d)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamchandankumar__)
+🚀 **About Me**
+- 🔧 Front-End Developer with **1 year of experience**  
+- 🛠️ Specialized in **React.js** & **Next.js**  
+- 🧠 Love solving complex problems with clean, maintainable code  
+- 🌱 Always learning — currently diving deeper into **JavaScript**, **API integrations**, and **animations**
+- 💡 Keen on performance optimization & making UI interactions smooth  
+- 🔭 Currently working on a website for **Sankalp Electra Auto Motive** (E-Rickshaw Service Center)
+
+📫 **Portfolio:** [its-chandan-portfolio.netlify.app](https://its-chandan-portfolio.netlify.app/)
 
 ---
 
-## 💻 **Tech Stack:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+🌐 **Connect with Me**
+<p align="left">
+  <a href="https://linkedin.com/in/chandan-d" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/iamchandankumar__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 **GitHub Stats:**
-![](https://github-readme-stats.vercel.app/api?username=ChandanKumarWeb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChandanKumarWeb&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumarWeb&theme=dark&hide_border=false&layout=compact&langs_count=6)  
+💻 **Tech Stack**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-8811FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
-## 🎯 **Visitor Count:**
-[![](https://visitcount.itsvg.in/api?id=ChandanKumarWeb&icon=0&color=0)](https://visitcount.itsvg.in)
+📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandanKumarWeb&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanKumarWeb&theme=dark&hide_border=false" width="48%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumarWeb&theme=dark&hide_border=false&layout=compact&langs_count=6" width="48%"/>
+</div>
 
 ---
 
-🚀 **Let's connect and build something awesome together!** 😊  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📈 **Visitor Count**
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ChandanKumarWeb&icon=0&color=0"/>
+</p>
+
+---
+
+✨ *Let’s connect and build something awesome together!*  
+🧑‍💻 *Crafted with ❤️ by [Chandan Dev](https://its-chandan-portfolio.netlify.app/)*
+
+<!-- Designed with love using GPRM: https://gprm.itsvg.in -->
