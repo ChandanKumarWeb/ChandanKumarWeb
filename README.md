@@ -40,11 +40,12 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandanKumarWeb&theme=radical&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanKumarWeb&theme=radical&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandanKumarWeb&theme=transparent&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanKumarWeb&theme=transparent&hide_border=true" width="48%"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumarWeb&theme=radical&hide_border=false&layout=compact&langs_count=6" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumarWeb&theme=transparent&hide_border=true&layout=compact&langs_count=6" width="48%"/>
 </div>
+
 
 ---
 
