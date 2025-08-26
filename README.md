@@ -17,7 +17,6 @@
 
 ✨ Turning ideas into smooth UI/UX<br>
 🎨 Building with <b>React.js</b>, <b>Next.js</b>, <b>Tailwind</b><br>
-🔭 Currently building: <b>Sankalp Electra Auto Motive (E-Rickshaw Service Center)</b> <br>
 🌱 Exploring JavaScript, API integrations & animations<br>
 💡 Obsessed with performance & UX<br>
 🌐 <b>Portfolio:</b> [chandankumar-portfoli.netlify.app](https://chandankumar-portfoli.netlify.app/)
