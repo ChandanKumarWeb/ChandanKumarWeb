@@ -1,69 +1,85 @@
+<!-- Profile Header -->
 <h1 align="center">
-  Hi there, I'm Chandan Kumar 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Chandan+Kumar;A+Passionate+Front-End+Developer;React.js+%7C+Next.js+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Front-End Developer | React.js & Next.js Enthusiast</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Coding animation" />
+</p>
 
 ---
 
-## 🌟 About Me  
-- 🔧 Front-End Developer with **1 year of experience**  
-- 🛠️ Specialized in **React.js** & **Next.js**  
-- 🧠 Passionate about solving complex problems with clean, maintainable code  
-- 🌱 Currently exploring **JavaScript**, **API integrations**, and **animations**  
-- 💡 Focused on performance optimization & smooth UI interactions  
-- 🔭 Building a website for **Sankalp Electra Auto Motive** (E-Rickshaw Service Center)  
+## 💫 About Me  
+✨ Turning **ideas into smooth UI/UX**  
+🎨 Building with **React.js, Next.js & Tailwind**  
+🚀 Always exploring **APIs, Animations & Optimizations**  
+🔭 Currently building **Sankalp Electra Auto Motive (E-Rickshaw Service)**  
 
-📫 **Portfolio:** [chandankumar-portfoli.netlify.app](https://chandankumar-portfoli.netlify.app/)
+🌐 **Portfolio:** [chandankumar-portfoli.netlify.app](https://chandankumar-portfoli.netlify.app/)
 
 ---
 
-## 🌐 Connect with Me  
+## 🌎 Connect with Me  
+
 <p align="center">
   <a href="https://linkedin.com/in/chandan-d" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://instagram.com/iamchandankumar__" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack  
+## ⚡ Tech Stack  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui,js,ts,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity  
-<div align="center">
-  
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1EFF00&width=435&lines=Front-End+Developer;React+%7C+Next.js+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-  
-  <br/>
+## 📊 GitHub Stats  
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandanKumarWeb&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanKumarWeb&theme=tokyonight&hide_border=true" width="48%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumarWeb&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="48%"/>
-</div>
-
----
-
-## 🎯 Fun Fact  
-✨ I love **turning ideas into reality** with clean code & smooth UI/UX.  
-
----
-
-## 📈 Profile Visitors  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChandanKumarWeb&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandanKumarWeb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ChandanKumarWeb&theme=radical&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumarWeb&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
 </p>
 
 ---
 
-🧑‍💻 *Crafted with ❤️ by [Chandan Dev](https://chandankumar-portfoli.netlify.app/)*  
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChandanKumarWeb&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandanKumarWeb&theme=tokyo-night&hide_border=true" width="95%" />
+</p>
+
+---
+
+## 🎨 Fun Section  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+magic+—+when+it+runs+smoothly,+it+feels+alive!" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChandanKumarWeb&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+#### 🧑‍💻 Crafted with ❤️ by [Chandan Dev](https://chandankumar-portfoli.netlify.app/)
+
