@@ -23,12 +23,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChandanKumarWeb&theme=algolia&no-frame=true&title=Followers,Stars,Commit,MultiLanguage,PullRequest" alt="trophy"/>
-</p>
-
----
-
 ## 🌎 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/chandan-d" target="_blank">
