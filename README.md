@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChandanKumarWeb&theme=onedark&no-frame=true&title=Followers,Stars,Commit,MultiLanguage,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChandanKumarWeb&theme=algolia&no-frame=true&title=Followers,Stars,Commit,MultiLanguage,PullRequest" alt="trophy"/>
 </p>
 
 ---
