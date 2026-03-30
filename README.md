@@ -107,32 +107,33 @@ const chandan = {
 ### 🌐 Find Me Here
 
 <div align="center">
+  <h3>🌐 Connect with Me</h3>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://chandankumar-portfoli.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f7ff?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117&color=00f7ff" height="50" alt="Portfolio"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://linkedin.com/in/chandan-d" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" height="50" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://instagram.com/iamchandankumar__" target="_blank">
+          <img src="https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" height="50" alt="Instagram"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<table>
-<tr>
-<td align="center" width="200">
-<a href="https://chandankumar-portfoli.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/_%F0%9F%8C%90_PORTFOLIO_-Visit%20Now%20%E2%86%97-00f7ff?style=for-the-badge&labelColor=0d1117&color=00f7ff" width="180"/><br/><br/>
-<code>chandankumar-portfoli.netlify.app</code>
-</a>
-</td>
-<td width="24"></td>
-<td align="center" width="200">
-<a href="https://linkedin.com/in/chandan-d" target="_blank">
-<img src="https://img.shields.io/badge/_%F0%9F%94%97_LINKEDIN_-Connect%20%E2%86%97-0077b5?style=for-the-badge&labelColor=0d1117&color=0077b5" width="180"/><br/><br/>
-<code>linkedin.com/in/chandan-d</code>
-</a>
-</td>
-<td width="24"></td>
-<td align="center" width="200">
-<a href="https://instagram.com/iamchandankumar__" target="_blank">
-<img src="https://img.shields.io/badge/_%F0%9F%93%B8_INSTAGRAM_-Follow%20%E2%86%97-E4405F?style=for-the-badge&labelColor=0d1117&color=E4405F" width="180"/><br/><br/>
-<code>@iamchandankumar__</code>
-</a>
-</td>
-</tr>
-</table>
-
+  <p>
+    <code>chandankumar-portfoli.netlify.app</code> &nbsp;•&nbsp; 
+    <code>linkedin.com/in/chandan-d</code> &nbsp;•&nbsp; 
+    <code>@iamchandankumar__</code>
+  </p>
 </div>
 
 <br/>
