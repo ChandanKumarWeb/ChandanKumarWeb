@@ -71,14 +71,6 @@ const chandan = {
 ### 📊 Battle Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChandanKumarWeb&show_icons=true&count_private=true&hide_border=true&title_color=00f7ff&icon_color=7B2FFF&text_color=c9d1d9&bg_color=0d1117&ring_color=FF2D78&include_all_commits=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumarWeb&layout=compact&hide_border=true&title_color=00f7ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="165"/>
-
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=ChandanKumarWeb&theme=transparent&hide_border=true&background=0d1117&ring=FF2D78&fire=7B2FFF&currStreakLabel=00f7ff&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
 </div>
 
@@ -86,19 +78,6 @@ const chandan = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<br/>
-
-### 📈 Commit Pulse
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandanKumarWeb&bg_color=0d1117&color=00f7ff&line=7B2FFF&point=FF2D78&area_color=1a0533&area=true&hide_border=true&custom_title=Chandan's%20Contribution%20Graph" width="96%"/>
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<br/>
 
 ### 🎯 Current Mission
 
