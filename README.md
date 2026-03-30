@@ -88,18 +88,6 @@ const chandan = {
 
 <br/>
 
-### 🏆 Trophy Cabinet
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ChandanKumarWeb&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<br/>
-
 ### 📈 Commit Pulse
 
 <div align="center">
@@ -140,17 +128,30 @@ const chandan = {
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="200">
 <a href="https://chandankumar-portfoli.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%2300f7ff.svg?style=for-the-badge&logo=vercel&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/_%F0%9F%8C%90_PORTFOLIO_-Visit%20Now%20%E2%86%97-00f7ff?style=for-the-badge&labelColor=0d1117&color=00f7ff" width="180"/><br/><br/>
+<code>chandankumar-portfoli.netlify.app</code>
 </a>
-&nbsp;
+</td>
+<td width="24"></td>
+<td align="center" width="200">
 <a href="https://linkedin.com/in/chandan-d" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/_%F0%9F%94%97_LINKEDIN_-Connect%20%E2%86%97-0077b5?style=for-the-badge&labelColor=0d1117&color=0077b5" width="180"/><br/><br/>
+<code>linkedin.com/in/chandan-d</code>
 </a>
-&nbsp;
+</td>
+<td width="24"></td>
+<td align="center" width="200">
 <a href="https://instagram.com/iamchandankumar__" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/_%F0%9F%93%B8_INSTAGRAM_-Follow%20%E2%86%97-E4405F?style=for-the-badge&labelColor=0d1117&color=E4405F" width="180"/><br/><br/>
+<code>@iamchandankumar__</code>
 </a>
+</td>
+</tr>
+</table>
 
 </div>
 
