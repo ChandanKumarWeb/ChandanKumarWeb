@@ -1,44 +1,46 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:FF2D78&height=220&section=header&text=Chandan%20Kumar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Crafting%20Experiences&descAlignY=58&descSize=18&descColor=ccefff" />
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a0533,100:0D0D0D&height=200&section=header&text=CHANDAN%20KUMAR&fontSize=55&fontColor=00f7ff&animation=fadeIn&fontAlignY=40&stroke=7B2FFF&strokeWidth=2&desc=Front-End%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20UI%2FUX&descSize=16&descColor=aa88ff&descAlignY=62" />
+
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=React.js+%26+Next.js+Developer+%F0%9F%9A%80;UI%2FUX+Obsessed+%F0%9F%8E%A8;Performance+%26+Animation+Nerd+%E2%9A%A1;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=580&lines=const+dev+%3D+%22Chandan+Kumar%22%3B;const+stack+%3D+%5B%22React%22%2C+%22Next.js%22%2C+%22Tailwind%22%5D%3B;const+vibe+%3D+%22turning+ideas+into+UI%2FUX%22%3B;console.log(%22Let%27s+build+something+great%22)%3B" />
   </a>
-</p>
+</div>
 
 <br/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="Coding animation" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-<table align="center" border="0">
+<table>
 <tr>
-<td>
+<td width="55%">
 
-## 💫 About Me
+### ⚡ `whoami`
 
-```yaml
-name: Chandan Kumar
-role: Front-End Developer
-focus:
-  - React.js & Next.js
-  - Tailwind CSS & Animations
-  - JavaScript & TypeScript
-  - API Integrations
-vibe: Turning ideas into smooth UI/UX
-currently: Exploring performance & DX
-portfolio: chandankumar-portfoli.netlify.app
+```ts
+const chandan = {
+  role     : "Front-End Developer",
+  location : "India 🇮🇳",
+  stack    : ["React.js", "Next.js", "TypeScript",
+              "Tailwind CSS", "JavaScript"],
+  crafting : "Smooth UI/UX + micro-animations",
+  learning : "API integrations & web performance",
+  contact  : "chandankumar-portfoli.netlify.app",
+  status   : "Open to collabs 🤝",
+};
 ```
 
 </td>
-<td>
+<td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/gist/brudnak/abb00655df750dbe46c4df4e5f4a0cd5/raw/dfe667ac28e7c52bb0e97eef1dc0f3c2a7e25aa6/nyan-cat.gif" width="250" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif" />
 
 </td>
 </tr>
@@ -48,70 +50,126 @@ portfolio: chandankumar-portfoli.netlify.app
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## ⚡ Tech Stack
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,materialui&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark" />
-</p>
+### 🧬 Skill DNA
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark&perline=5" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=bootstrap,materialui,figma,vscode,git&theme=dark&perline=5" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=github,vercel,netlify,html,css&theme=dark&perline=5" />
+
+</div>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandanKumarWeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FFF&text_color=ffffff&ring_color=FF2D78" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=ChandanKumarWeb&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2D78&fire=7B2FFF&currStreakLabel=00F7FF" width="49%"/>
-</p>
+### 📊 Battle Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumarWeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=8" width="55%"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChandanKumarWeb&show_icons=true&count_private=true&hide_border=true&title_color=00f7ff&icon_color=7B2FFF&text_color=c9d1d9&bg_color=0d1117&ring_color=FF2D78&include_all_commits=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKumarWeb&layout=compact&hide_border=true&title_color=00f7ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ChandanKumarWeb&theme=transparent&hide_border=true&background=0d1117&ring=FF2D78&fire=7B2FFF&currStreakLabel=00f7ff&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
+</div>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## 📈 Contribution Activity
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandanKumarWeb&bg_color=0D1117&color=00F7FF&line=7B2FFF&point=FF2D78&area=true&hide_border=true" width="96%" />
-</p>
+### 🏆 Trophy Cabinet
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ChandanKumarWeb&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## 🌎 Let's Connect
+<br/>
 
-<p align="center">
-  <a href="https://chandankumar-portfoli.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF2D78?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/chandan-d" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/iamchandankumar__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+### 📈 Commit Pulse
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandanKumarWeb&bg_color=0d1117&color=00f7ff&line=7B2FFF&point=FF2D78&area_color=1a0533&area=true&hide_border=true&custom_title=Chandan's%20Contribution%20Graph" width="96%"/>
+</div>
 
 <br/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+magic+—+when+it+runs+smoothly,+it+feels+alive!" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChandanKumarWeb&label=Profile+Views&color=7B2FFF&style=for-the-badge"/>
-</p>
+### 🎯 Current Mission
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D78,50:7B2FFF,100:00F7FF&height=120&section=footer&animation=fadeIn" />
-</p>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🚀  Shipping pixel-perfect React & Next.js apps           ║
+║   🎨  Obsessed with animations & transitions                 ║
+║   🔌  Integrating APIs that actually make sense              ║
+║   ⚡  Squeezing every ms of performance                      ║
+║   🌐  Portfolio → chandankumar-portfoli.netlify.app          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+<br/>
+
+### 🌐 Find Me Here
+
+<div align="center">
+
+<a href="https://chandankumar-portfoli.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%2300f7ff.svg?style=for-the-badge&logo=vercel&logoColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/chandan-d" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/iamchandankumar__" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChandanKumarWeb&label=Profile+Views&color=7B2FFF&style=for-the-badge&abbreviated=true"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+UI+is+the+one+users+never+have+to+think+about." />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a0533,100:0D0D0D&height=120&section=footer&animation=fadeIn&stroke=7B2FFF&strokeWidth=2" />
+
+<div align="center">
+  <sub>Engineered with precision by <a href="https://chandankumar-portfoli.netlify.app/">Chandan Kumar</a> · Not a template — built from scratch</sub>
+</div>
